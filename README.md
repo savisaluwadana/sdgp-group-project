@@ -1,2 +1,2 @@
-# sdgp-group-project
-iit sdgp 
+# Footware Demand Forecasting System
+IIT SDGP 
