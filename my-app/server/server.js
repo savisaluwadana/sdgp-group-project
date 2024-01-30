@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.send('Hello from the server!');
+  res.send('Hello from the server! backend front end connected');
 });
 
 app.listen(PORT, () => {
